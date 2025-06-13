@@ -14,7 +14,7 @@ const Header = () => {
       <div className="flex">
         <h1>
           <Link href="/">
-            <Image alt="logo" src="/AutoSystemsLogo.jpg" className="c w-28" />
+            <Image alt="logo" src="/AutoSystemsLogo.jpg" width={20} height={20} className="c w-28" />
           </Link>
         </h1>
         <nav>
